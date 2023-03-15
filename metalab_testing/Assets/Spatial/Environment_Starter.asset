@@ -15,6 +15,7 @@ MonoBehaviour:
   version: 0
   sku: 
   packageName: Starter Environment
+  thumbnail: {fileID: 0}
   variants:
   - name: Default
     id: 99c9720ab356a0642a771bea13969a05
